@@ -16,6 +16,6 @@ A responsive and interactive image gallery built using HTML, CSS, and JavaScript
 - JavaScript
 
 ## 🌐 Live Demo
-(Add your live link here)
+(https://parasqureshi13.github.io/SyntecXhub_Task1/)
 ## Author
 Paras Qureshi
